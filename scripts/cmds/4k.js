@@ -6,7 +6,7 @@ module.exports.config = {
 name: "4k",
 version: "1.0.3",
 permission: 0,
-credits: "NIROB",
+credits: "siraj",
 description: "Reply to an image to upscale it to 4K",
 category: "image",
 usages: "Reply to an image",
