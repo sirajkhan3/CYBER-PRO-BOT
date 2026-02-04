@@ -2,7 +2,7 @@
   "name": "CYBER GOAT BOT",
   "version": "2.1.0",
   "description": "A simple Bot chat messenger using personal account. Made by ST | CYBER ULLASH",
-  "main": "Ullash.js",
+  "main": "SIRAJ.js",
   "engines": {
     "node": "18.x",
     "npm": ">=7.0.0"
@@ -55,11 +55,11 @@
   "scripts": {
     "start": "node Ullash.js"
   },
-  "author": "ST | CYBER ULLASH",
+  "author": "SJ | CYBER SIRAJ",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyber-ullash/CYBER-GOAT-BOT.git"
+    "url": "git+https://github.com/cyber-SIRAJ/CYBER-GOAT-BOT.git"
   },
   "keywords": [
     "facebook",
@@ -73,7 +73,7 @@
     "ullashproject",
     "messenger",
     "javasvript",
-    "ullash",
+    "SIRAJ",
     "cyberullash",
     "cyberRajib ",
     "islamick chat bot",
@@ -86,9 +86,9 @@
     "fca bot"
   ],
   "bugs": {
-    "url": "https://github.com/cyber-ullash/CYBER-GOAT-BOT/issues"
+    "url": "https://github.com/cyber-SIRAJ/CYBER-GOAT-BOT/issues"
   },
-  "homepage": "https://github.com/cyber-ullash/CYBER-GOAT-BOT#readme",
+  "homepage": "https://github.com/cyber-SIRAJ/CYBER-GOAT-BOT#readme",
   "devDependencies": {
     "eslint": "^8.2.0",
     "eslint-config-airbnb": "^19.0.4",
