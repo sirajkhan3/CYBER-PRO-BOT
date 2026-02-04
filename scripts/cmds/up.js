@@ -24,7 +24,7 @@ module.exports = {
   config: {
     name: "up",
     version: "3.5",
-    author: "MR᭄﹅ MAHABUB﹅ メꪜ",
+    author: "MR᭄﹅ SIRAJ﹅ メꪜ",
     countDown: 5,
     role: 0,
     description: "Check bot uptime with full system + VPS details",
@@ -74,7 +74,7 @@ module.exports = {
 🖥 Pʟᴀᴛғᴏʀᴍ: ${platform}
 🚀 Bᴏᴛ Aᴄᴛɪᴠᴇᴛᴇᴅ: ${startTime}
 
-👑 Oᴡɴᴀʀ: MAHBUB ULLASH
+👑 Oᴡɴᴀʀ: SIRAJ Sweet
 📡 ʜᴏsᴛ: ${hostname}
 🌐 Iᴘ Aᴅʀᴇss: ${ipAddr}`;
 
